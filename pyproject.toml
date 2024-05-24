@@ -1,0 +1,8 @@
+[build-system]
+requires = []
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "CORNERSTONE SIN300nm pdk documentation"
+authors = [{ name = "kathylin", email = "kathy_lin@enlight-tec.com" }]
+dynamic = ["version", "description"]
